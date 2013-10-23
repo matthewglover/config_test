@@ -35,7 +35,7 @@ group :test do
   gem 'factory_girl_rails', '4.2.0'
   gem 'cucumber-rails', '1.4.0', :require => false
   gem 'database_cleaner', github: 'bmabey/database_cleaner'
-  gem 'mocha', '0.14.0'
+  # gem 'mocha', '0.14.0'
   gem 'email_spec'
   # Uncomment this line on OS X.
   # gem 'growl', '1.0.3'
